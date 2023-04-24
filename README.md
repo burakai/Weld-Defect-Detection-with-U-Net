@@ -1,6 +1,6 @@
 # itu-cv
 
-It's an implemention of a open source project as the final project of the BLG 506E - Computer Vision course in Istanbul Technical Unversity.
+It's an implementation of the original U-net algorithm as a final project for the course "BLG 506E - Computer Vision" at Istanbul Technical University.
 
 Dataset is avaliable on:
 
